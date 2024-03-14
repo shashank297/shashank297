@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashank Shukla</h1>
-<h3 align="center">Passionate Data Scientist and Machine Learning Engineer with a proven track record in data analysis and model development. Proficient in Python and SQL for data manipulation, analysis, and modeling, with a strong foundation in statistical concepts, probability, and hypothesis testing. Experienced in applying various machine learning algorithms including regression, decision trees, clustering, classification, neural networks, and more. Skilled in data visualization using tools like Matplotlib, Seaborn, Plotly, Tableau, Excel, Posthog, and Metabase. Comfortable with data wrangling and preprocessing using Pandas, NumPy, and dplyr, and familiar with big data technologies like Hadoop and Spark. Proven ability to provide data-driven insights and recommendations, and a strong team player with excellent problem-solving skills. Looking to leverage these skills to drive data-led solutions in a challenging and dynamic environment.</h3>
+<h3 align="center">Experienced Data Analyst with a knack for Python, SQL, and Excel,
+adept at handling complex datasets and machine learning principles.
+I am eager to apply these skills in a Data Science role to drive data-led
+solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank297&label=Profile%20views&color=0e75b6&style=flat" alt="shashank297" /> </p>
 
